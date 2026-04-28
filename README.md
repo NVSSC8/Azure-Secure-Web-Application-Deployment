@@ -4,6 +4,14 @@ This project demonstrates how I deployed and secured a web application on Azure 
 
 The main goal was to understand how real-world traffic flows through different Azure services, not just to deploy an app.
 
+
+## 🤖 Documentation Note
+
+AI tools were used to help refine the structure and clarity of this documentation.
+
+All architecture design, configurations, and deployment steps were implemented, tested, and validated by me as part of this project.
+
+
 ---
 
 ## 🌐 Overview
