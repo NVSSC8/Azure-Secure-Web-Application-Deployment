@@ -59,7 +59,7 @@ A detailed project PDF is included in this repository. It contains the complete 
 
 Please refer to the uploaded PDF file above:
 
-**latest end to end web application - final draft.pdf**
+** web application project.pdf**
 ---
 
 ## 🌐 Demo Status
