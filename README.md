@@ -53,13 +53,13 @@ User → DNS → Front Door → WAF → App Service → Flask App
 
 ---
 
-## 📸 Documentation
+## 📄 Documentation
 
-A detailed step-by-step explanation with architecture and screenshots is available here:
+A detailed project PDF is included in this repository. It contains the complete step-by-step deployment process, architecture explanation, and screenshots.
 
-latest end to end web application- final draft.pdf`
+Please refer to the uploaded PDF file above:
 
-
+**latest end to end web application - final draft.pdf**
 ---
 
 ## 🌐 Demo Status
