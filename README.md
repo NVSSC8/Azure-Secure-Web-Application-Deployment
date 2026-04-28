@@ -57,7 +57,7 @@ User → DNS → Front Door → WAF → App Service → Flask App
 
 A detailed step-by-step explanation with architecture and screenshots is available here:
 
-project-documentation.pdf`
+latest end to end web application- final draft.pdf`
 
 
 ---
